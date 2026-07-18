@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='moagiheadnlgacdolepnmfkjjehjlpme
-'>
-    <updatecheck codebase='file:///C:/Program%20Files/uBOLite_2026.714.1952.chromium - Copy.crx' version='2026.714.1952' />
+  <app appid='moagiheadnlgacdolepnmfkjjehjlpme'>
+    <updatecheck codebase='https://github.com/himmelofran/chrome-ex/raw/refs/heads/main/uBOLite_2026.714.1952.chromium%20-%20Copy.crx' version='2026.714.1952' />
   </app>
 </gupdate>
